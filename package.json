@@ -10,7 +10,7 @@
   "author": "João Nogueira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joaomenna1/"
+    "url": "https://github.com/joaomenna1/criptografia-cesar"
   },
   "dependencies": {
     "axios": "^0.19.2",
