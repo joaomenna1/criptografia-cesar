@@ -1,0 +1,19 @@
+{
+  "name": "criptografia-cesar",
+  "version": "1.0.0",
+  "description": "função de criptografia de cesar",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "repository": "https://github.com/joaomenna1",
+  "author": "João Nogueira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaomenna1/"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "form-data": "^3.0.0"
+  }
+}
