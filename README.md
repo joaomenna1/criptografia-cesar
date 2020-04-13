@@ -31,7 +31,7 @@ This project was developed with the following technologies:
 
 ## :information_source: How to run
 ### Requirements
-To run the app, you will need [Git](https://git-scm.com).
+To run the app, you will need [Git](https://git-scm.com), [Nodejs](https://nodejs.org/en/).
 <br>
 
 ### Backend
